@@ -1,0 +1,9 @@
+[package]
+name = "coordinate-rs"
+version = "0.1.0"
+authors = ["Mike Rahnis"]
+
+[dependencies]
+clap = "1.5.2"
+csv = "0.14.3"
+rustc-serialize = "0.3.16"
