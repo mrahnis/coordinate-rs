@@ -3,9 +3,9 @@ Coordinate
 ==========
 Coordinate converts between LLA and ECEF coordinates. It is something I made in order to try the Rust programming language. It is not the best choice (or even a good one) for coordinate conversion. Other libraries offer implementations with more options, better numerical precision, and better handling of corner cases. You might look to:
 
-[GDAL]
-[Proj4]
-[GeographicLib]
+*[GDAL]
+*[Proj4]
+*[GeographicLib]
 
 =========
 Compiling
